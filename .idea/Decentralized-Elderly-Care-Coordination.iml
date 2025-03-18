@@ -2,5 +2,17 @@
 <module version="4">
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="bfc15b44-4b42-43b3-8e66-15a72a74e7ff" />
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="f6d1648a-bfc8-446c-ae23-8c63af2a5bb3" />
   </component>
 </module>
